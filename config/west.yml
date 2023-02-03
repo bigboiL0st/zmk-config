@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: nguyendown
-      revision: cresk
+      revision: L0st
       import: app/west.yml
   self:
     path: config
